@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "We use mongodb://localhost:27017/density_of_people to DB\r with \"working\", \"weekend\", \"holiday\" and \"temporary\" collection",
   "dependencies": {
     "csv-parser": "^3.0.0",

@@ -140,3 +140,7 @@ The main limitations visible in the code are:
 ### 7. If development resumes
 
 First, make the chart and AI prompt use the same data. Then validate `area` and `idx`, fix navigation in the EJS page, and show a clear fallback when Upstage is unavailable. After that, decide whether to integrate the `.h5` model and MongoDB or keep the project as a snapshot-based demo. Any future deployment should be tested on its actual hosting platform, with credentials removed from tracked files and rotated if they were exposed.
+
+## License
+
+Original code and documentation authored by Jakkarin Promsee are licensed under the [MIT License](LICENSE). Third-party code, assets, datasets, and other materials are not covered by this license; their original terms apply.
